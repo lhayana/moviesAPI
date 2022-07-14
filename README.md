@@ -1,1 +1,1 @@
-# moviesAPI-project
+# moviesAPI
