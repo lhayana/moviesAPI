@@ -4,7 +4,7 @@ header{
     justify-content: center;
     width: 100%;
     height: 60px;
-    background-color: black;
+    background-color: #084C61;
 }
 
 .logo{
@@ -16,10 +16,15 @@ header{
 }
 
 .favorites{
+    margin-left: 20px;
     cursor: pointer;
-    background-color: whitesmoke;
+    background-color: #E3B505;
     padding: 5px 14px;
     text-decoration: none;
     color: black;
     border-radius: 4px;
+}
+
+.favorites:hover{
+    color: aliceblue;
 }
